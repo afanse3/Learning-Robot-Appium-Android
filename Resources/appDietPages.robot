@@ -23,5 +23,5 @@ Close Session Apps
     Close Application
 
 Close Apps
-    Capture Page Screenshot    ../Step/screenshotDiet.png
+    Capture Page Screenshot    ../results/screenshotDiet.png
     Quit Application
